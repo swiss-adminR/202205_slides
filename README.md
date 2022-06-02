@@ -11,14 +11,14 @@ Andrea R. Plüss, Statistik Aargau
 
 ### Knowledge-Management & latest steps of the R-Transformation at Statistik Aargau
 
-https://github.com/swiss-adminR/202103_slides/blob/main/220531_STAAG_knowledgeMgmtAdminR.pdf
+https://github.com/swiss-adminR/202205_slides/blob/main/220531_STAAG_knowledgeMgmtAdminR.pdf
 
 Jan Wunder, Niklas Haffert, Tina Cornioley
 
 
 ### Payments Analysis with R at the SNB
 
-https://github.com/swiss-adminR/202103_slides/blob/main/220531_SNB_PaymentAnalysis.pdf
+https://github.com/swiss-adminR/202205_slides/blob/main/220531_SNB_PaymentAnalysis.pdf
 
 Christoph Meyer, Schweizerische Nationalbank
 
